@@ -3,7 +3,7 @@
     <header class="shadow-sm bg-white">
       <nav class="container mx-auto p-4 flex justify-between">
         <NuxtLink to="/" class="font-bold">
-          Nuxt Dojo
+          Nuxt Merch
         </NuxtLink>
         <ul class="flex gap-4">
           <li>
