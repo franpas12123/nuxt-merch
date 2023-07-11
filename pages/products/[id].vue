@@ -5,6 +5,10 @@
 </template>
 
 <script setup>
+definePageMeta({
+  layout: 'products'
+})
+
 const { id } = useRoute().params
 
 // fetch product from fakestoreapi using id
